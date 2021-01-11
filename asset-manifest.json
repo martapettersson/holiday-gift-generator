@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/holiday-gift-generator/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/holiday-gift-generator/static/js/main.2b721efa.chunk.js",
+    "main.js.map": "/holiday-gift-generator/static/js/main.2b721efa.chunk.js.map",
+    "runtime-main.js": "/holiday-gift-generator/static/js/runtime-main.b05f8a47.js",
+    "runtime-main.js.map": "/holiday-gift-generator/static/js/runtime-main.b05f8a47.js.map",
+    "static/css/2.1f208231.chunk.css": "/holiday-gift-generator/static/css/2.1f208231.chunk.css",
+    "static/js/2.3b73e785.chunk.js": "/holiday-gift-generator/static/js/2.3b73e785.chunk.js",
+    "static/js/2.3b73e785.chunk.js.map": "/holiday-gift-generator/static/js/2.3b73e785.chunk.js.map",
+    "static/js/3.fb3ea2b8.chunk.js": "/holiday-gift-generator/static/js/3.fb3ea2b8.chunk.js",
+    "static/js/3.fb3ea2b8.chunk.js.map": "/holiday-gift-generator/static/js/3.fb3ea2b8.chunk.js.map",
+    "index.html": "/holiday-gift-generator/index.html",
+    "static/css/2.1f208231.chunk.css.map": "/holiday-gift-generator/static/css/2.1f208231.chunk.css.map",
+    "static/css/main.6dea0f05.chunk.css.map": "/holiday-gift-generator/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.3b73e785.chunk.js.LICENSE.txt": "/holiday-gift-generator/static/js/2.3b73e785.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b05f8a47.js",
+    "static/css/2.1f208231.chunk.css",
+    "static/js/2.3b73e785.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.2b721efa.chunk.js"
+  ]
+}
